@@ -14,4 +14,4 @@
 | **6** | **Coarse Aggregate** |
 | **7** | **Fine Aggregate** |  
 | **8** | **Age** |
-| **9** | **Strength** | **Target** |
+| **9** | **Strength (Target)** |
