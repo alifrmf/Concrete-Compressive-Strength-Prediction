@@ -1,4 +1,5 @@
-# Predicting the Concrete Compressive Strength Using ML Models
+# Predicting the Concrete Compressive Strength Using ML Models ![license](https://img.shields.io/github/license/alifrmf/Concrete-Compressive-Strength-Prediction.svg) ![releases](https://img.shields.io/github/release/alifrmf/Concrete-Compressive-Strength-Prediction.svg)
+
 
 **📌What is the Compressive Strength of Concrete?**
 
